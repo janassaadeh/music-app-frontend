@@ -73,7 +73,6 @@ Explore the Flutter application through five short walkthroughs. The recordings 
 
 > **[View / download all Flutter demo recordings (ZIP) on Google Drive](https://drive.google.com/file/d/1q29GUZEaA6mE72ypy8uA-Vv1foAyP-Yc/view?usp=sharing)**
 >
-> The link opens a ZIP archive containing all five recordings. Set access to **Anyone with the link → Viewer** so visitors can access it.
 
 | Demo | What it covers | Length |
 | --- | --- | ---: |
