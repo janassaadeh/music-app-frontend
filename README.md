@@ -11,7 +11,7 @@ A music streaming mobile application built with **Flutter and Dart**, featuring 
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-555555)
 
-**[Backend Repository](https://github.com/janassaadeh/mymusic-app-live)** · **[Demo Video](#-demo)** · **[Screenshots](#-screenshots)**
+**[Backend Repository](https://github.com/janassaadeh/mymusic-app-live)** · **[Demo Videos](#-demo-videos)** · **[Screenshots](#-screenshots)**
 
 </div>
 
@@ -67,15 +67,30 @@ The mobile application connects to a separate C#/.NET backend designed to suppor
 
 **Backend source:** [Music App Backend](https://github.com/janassaadeh/mymusic-app-live)
 
-## 🎬 Demo
+## 🎬 Demo Videos
 
-Watch the Flutter app in action: **[Add your demo video URL here](YOUR_DEMO_VIDEO_URL)**
+Explore the Flutter application through five short walkthroughs. The recordings are organized by feature so you can jump directly to what interests you.
 
-The demo showcases the library, full-screen music player, playback controls, changing album artwork and themed backgrounds, and artist/liked-song views.
+> **[View / download all Flutter demo recordings (ZIP) on Google Drive](https://drive.google.com/file/d/1q29GUZEaA6mE72ypy8uA-Vv1foAyP-Yc/view?usp=sharing)**
+>
+> The link opens a ZIP archive containing all five recordings. Set access to **Anyone with the link → Viewer** so visitors can access it.
 
-*Replace `YOUR_DEMO_VIDEO_URL` with a GitHub-hosted video, YouTube link, or Google Drive share link before publishing.*
+| Demo | What it covers | Length |
+| --- | --- | ---: |
+| 🎧 **Music Player** | Song playback walkthrough | 1:04 |
+| 🔎 **Search** | Music search walkthrough | 0:53 |
+| 🎤 **Artists & Playlists** | Artist interactions and playlist creation | 1:49 |
+| ✨ **Create Account** | Account creation flow | 1:10 |
+| 🔐 **Login** | Sign-in flow | 0:48 |
+
+**Suggested viewing order:** Music Player → Search → Artists & Playlists → Create Account → Login.
+
+The recordings are shared as a ZIP file on Google Drive rather than stored in this repository. Individual streaming links can be added later if the clips are uploaded separately.
 
 ## 🖼️ Screenshots
+
+Add screenshots to a `screenshots/` folder in this repository, then uncomment the images below:
+
 
 | Music Library | Now Playing | Artists & Likes |
 |:---:|:---:|:---:|
