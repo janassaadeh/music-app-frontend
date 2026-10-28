@@ -77,15 +77,9 @@ The demo showcases the library, full-screen music player, playback controls, cha
 
 ## 🖼️ Screenshots
 
-Add screenshots to a `screenshots/` folder in this repository, then uncomment the images below:
-
-<!--
 | Music Library | Now Playing | Artists & Likes |
 |:---:|:---:|:---:|
 | <img src="screenshots/library.png" width="240" alt="Music library"> | <img src="screenshots/player.png" width="240" alt="Now playing"> | <img src="screenshots/artists.png" width="240" alt="Artists and liked songs"> |
--->
-
-Suggested screenshots: **Music Library**, **Now Playing**, **Liked Songs**, and **Artist Browsing**.
 
 ## 🚀 Getting started
 
